@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Digital License</title>
+<style>
+body{
+font-family: Arial;
+background:#f4f4f4;
+}
+
+.card{
+width:400px;
+margin:auto;
+background:white;
+padding:20px;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
+
+img{
+width:120px;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="card">
+
+<h2>Digital Driving License</h2>
+
+<img src="photo.jpg">
+
+<p><b>Name:</b> Mohamed Nauhaan Aariz</p>
+<p><b>ID:</b> A221008</p>
+<p><b>Issued:</b> 23-05-2024</p>
+<p><b>Expiry:</b> 23-05-2025</p>
+<p><b>DOB:</b> 22-08-2006</p>
+
+</div>
+
+</body>
+</html>
